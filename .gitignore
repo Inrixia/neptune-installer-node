@@ -1,0 +1,11 @@
+# VSCode Directory
+.vscode/
+# Dependency directories
+node_modules/
+
+# Typescript ignores
+dist/
+tsconfig.tsbuildinfo
+
+# Build ignores
+build/
